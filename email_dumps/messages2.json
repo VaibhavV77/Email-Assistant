@@ -1,0 +1,92 @@
+[
+    {
+        "threadId": "ClientMeeting_Preparation",
+        "messageId": "CM_001",
+        "to": "bob.employee@examplefinance.com",
+        "from": "alice.wealthmgmt@examplefinance.com",
+        "subject": "Client Meeting Next Week",
+        "body": "Hi Bob,\n\nJust a heads-up on the client meeting next week with Mr. Johnson. Could you please prepare a summary of his portfolio performance for the last quarter?  Also, remember we need to emphasize our client focus and tailored investment solutions as mentioned in the handbook.\n\nThanks,\nAlice",
+        "time": "14:20",
+        "date": "2024-11-10"
+    },
+    {
+        "threadId": "ClientMeeting_Preparation",
+        "messageId": "CM_002",
+        "to": "alice.wealthmgmt@examplefinance.com",
+        "from": "bob.employee@examplefinance.com",
+        "subject": "Re: Client Meeting Next Week",
+        "body": "Hi Alice,\n\nYes, I'm on it. The portfolio summary will be ready by end of day tomorrow. I'll make sure to highlight the long-term growth strategy we've implemented, aligning with his investment objectives.\n\nThanks,\nBob",
+        "time": "15:00",
+        "date": "2024-11-10"
+    },
+    {
+        "threadId": "ClientMeeting_Preparation",
+        "messageId": "CM_003",
+        "to": "alice.wealthmgmt@examplefinance.com",
+        "from": "alice.wealthmgmt@examplefinance.com",
+        "subject": "Re: Client Meeting Next Week",
+        "body": "Great, Bob! Also, let's prepare a few slides showcasing our commitment to integrity and client confidentiality. Mr. Johnson values transparency.\n\nAlice",
+        "time": "16:15",
+        "date": "2024-11-10"
+    },
+    {
+        "threadId": "Bonus_Discussion",
+        "messageId": "BD_001",
+        "to": "bob.employee@examplefinance.com",
+        "from": "carl.finance@examplefinance.com",
+        "subject": "Bonus Calculation Inquiry",
+        "body": "Hi Bob,\n\nDo you know if the bonus calculation takes into account individual performance reviews? I'm trying to understand how it aligns with the compensation and benefits information in the handbook.\n\nThanks,\nCarl",
+        "time": "10:40",
+        "date": "2024-12-05"
+    },
+    {
+        "threadId": "Bonus_Discussion",
+        "messageId": "BD_002",
+        "to": "carl.finance@examplefinance.com",
+        "from": "bob.employee@examplefinance.com",
+        "subject": "Re: Bonus Calculation Inquiry",
+        "body": "Hi Carl,\n\nYes, it does. The annual bonuses are based on both company and individual performance, as stated in the handbook. Your performance review plays a significant role in determining the individual contribution part.\n\nBob",
+        "time": "11:00",
+        "date": "2024-12-05"
+    },
+    {
+        "threadId": "Bonus_Discussion",
+        "messageId": "BD_003",
+        "to": "carl.finance@examplefinance.com",
+        "from": "carl.finance@examplefinance.com",
+        "subject": "Re: Bonus Calculation Inquiry",
+        "body": "Okay, that's helpful. So, it's not solely based on the company's overall success? Good to know. Thanks for the clarification!\n\nCarl",
+        "time": "11:15",
+        "date": "2024-12-05"
+    },
+    {
+        "threadId": "AcceptableUsePolicy_Question",
+        "messageId": "AUP_001",
+        "to": "bob.employee@examplefinance.com",
+        "from": "eva.techsupport@examplefinance.com",
+        "subject": "Acceptable Use Policy Clarification",
+        "body": "Hi Bob,\n\nA quick question about the Acceptable Use Policy.  Are we allowed to use company laptops for online training courses that are not mandatory but work-related?\n\nThanks,\nEva",
+        "time": "09:30",
+        "date": "2025-01-15"
+    },
+    {
+        "threadId": "AcceptableUsePolicy_Question",
+        "messageId": "AUP_002",
+        "to": "eva.techsupport@examplefinance.com",
+        "from": "bob.employee@examplefinance.com",
+        "subject": "Re: Acceptable Use Policy Clarification",
+        "body": "Hi Eva,\n\nYes, you can use company laptops for work-related online training courses, even if they're not mandatory.  It falls under using company resources for business purposes. Just make sure it doesn't interfere with your other responsibilities.\n\nBob",
+        "time": "09:45",
+        "date": "2025-01-15"
+    },
+    {
+        "threadId": "AcceptableUsePolicy_Question",
+        "messageId": "AUP_003",
+        "to": "eva.techsupport@examplefinance.com",
+        "from": "eva.techsupport@examplefinance.com",
+        "subject": "Re: Acceptable Use Policy Clarification",
+        "body": "Great! That's what I thought, but wanted to double-check. Thanks for the quick response, Bob!\n\nEva",
+        "time": "10:00",
+        "date": "2025-01-15"
+    }
+]

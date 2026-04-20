@@ -1,0 +1,92 @@
+[
+    {
+        "threadId": "ComplianceTraining_2024",
+        "messageId": "CT_001",
+        "to": "bob.employee@examplefinance.com",
+        "from": "anya.sharma@examplefinance.com",
+        "subject": "Mandatory Compliance Training Reminder",
+        "body": "Dear Bob,\n\nThis is a reminder about the mandatory compliance training session scheduled for October 30, 2024, at 10:00 AM in the main conference room. This session will cover important aspects of our Anti-Money Laundering (AML) and Data Privacy policies.  Your attendance is crucial to ensure that all employees are up-to-date with regulatory requirements. Please refer to pages 4 of the employee handbook for more information on these policies[cite: 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13].\n\nIf you have any questions, please do not hesitate to contact me.\n\nSincerely,\nAnya Sharma\nCompliance Officer",
+        "time": "09:15",
+        "date": "2024-10-28"
+    },
+    {
+        "threadId": "PersonalTradingPolicy_Query",
+        "messageId": "PTP_001",
+        "to": "bob.employee@examplefinance.com",
+        "from": "james.tradingdesk@examplefinance.com",
+        "subject": "Query Regarding Personal Trading Policy",
+        "body": "Hi Bob,\n\nI had a quick question about the personal trading policy. I'm planning to make some trades for my personal account and wanted to clarify the pre-clearance process.  Can you remind me where to find the specifics on reporting personal trades? I remember there was something in the employee handbook about it. Is it section 5? [cite: 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]\n\nThanks,\nJames",
+        "time": "14:00",
+        "date": "2024-11-01"
+    },
+    {
+        "threadId": "PersonalTradingPolicy_Query",
+        "messageId": "PTP_002",
+        "to": "james.tradingdesk@examplefinance.com",
+        "from": "bob.employee@examplefinance.com",
+        "subject": "Re: Query Regarding Personal Trading Policy",
+        "body": "Hi James,\n\nYes, you're right, it's in the Trading and Investment Policies section. You'll find details about pre-clearance, restricted lists, and quarterly reporting of personal trades there[cite: 17, 18, 19, 20, 21].  Make sure to fill out the Personal Trading Disclosure form and submit it to the Compliance Department before initiating any trades.\n\nHope this helps!\nBob",
+        "time": "14:30",
+        "date": "2024-11-01"
+    },
+    {
+        "threadId": "PerformanceReview_Q3",
+        "messageId": "PR_001",
+        "to": "bob.employee@examplefinance.com",
+        "from": "sarah.manager@examplefinance.com",
+        "subject": "Q3 Performance Review",
+        "body": "Hi Bob,\n\nLet's schedule your Q3 performance review. Please come prepared to discuss your achievements, challenges, and goals for the next quarter.  Refer to the handbook, page 6, for details on the performance review process[cite: 38, 39]. How does next Friday at 10:00 AM work for you?\n\nThanks,\nSarah",
+        "time": "11:00",
+        "date": "2024-11-15"
+    },
+    {
+        "threadId": "Bonus_Announcement",
+        "messageId": "BA_001",
+        "to": "all.employees@examplefinance.com",
+        "from": "hr.department@examplefinance.com",
+        "subject": "Annual Bonus Announcement",
+        "body": "Dear Employees,\n\nWe are pleased to announce that annual bonuses will be distributed on December 15th. These bonuses are based on the company's overall performance and your individual contributions. Please see page 7 of the employee handbook for more information on compensation and benefits[cite: 40, 41, 42].\n\nThank you for your hard work and dedication!\n\nSincerely,\nHR Department",
+        "time": "16:00",
+        "date": "2024-12-01"
+    },
+    {
+        "threadId": "IT_Security_Reminder",
+        "messageId": "ITS_001",
+        "to": "bob.employee@examplefinance.com",
+        "from": "it.support@examplefinance.com",
+        "subject": "Important Reminder: Password Security",
+        "body": "Dear Bob,\n\nThis is a reminder to all employees regarding password security.  Please remember to keep your passwords confidential and do not share them with anyone.  Always log off your computer when not in use and report any suspicious activity to the IT department immediately, as per company policy[cite: 48, 49, 50].\n\nThank you for your cooperation.\n\nSincerely,\nIT Support",
+        "time": "10:30",
+        "date": "2025-01-10"
+    },
+    {
+        "threadId": "SocialMediaPolicy_Clarification",
+        "messageId": "SMP_001",
+        "to": "bob.employee@examplefinance.com",
+        "from": "communications@examplefinance.com",
+        "subject": "Clarification on Social Media Policy",
+        "body": "Hi Bob,\n\nWe've received a few questions regarding the company's social media policy. To clarify, while employees are permitted to use social media, it's important to ensure that your online activity does not reflect negatively on Apex Global Investments. Please refrain from disclosing any confidential information or expressing opinions that could be construed as representing the company's views.  You can find more details on page 9 of the employee handbook[cite: 60, 61, 62, 63].\n\nThanks for your attention to this matter.\n\nSincerely,\nCommunications Team",
+        "time": "13:45",
+        "date": "2025-02-01"
+    },
+    {
+        "threadId": "CodeOfConduct_Inquiry",
+        "messageId": "COC_001",
+        "to": "bob.employee@examplefinance.com",
+        "from": "david.associate@examplefinance.com",
+        "subject": "Inquiry about Code of Conduct",
+        "body": "Hi Bob,\n\nCould you point me to where I can find the Code of Conduct? I have a question about a potential conflict of interest and want to review the policy. I think it was on page 3, right? [cite: 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112]\n\nThanks,\nDavid",
+        "time": "09:20",
+        "date": "2024-12-18"
+    },
+    {
+        "threadId": "CodeOfConduct_Inquiry",
+        "messageId": "COC_002",
+        "to": "david.associate@examplefinance.com",
+        "from": "bob.employee@examplefinance.com",
+        "subject": "Re: Inquiry about Code of Conduct",
+        "body": "Hi David,\n\nYes, the Code of Conduct is on page 3 of the handbook[cite: 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112]. It outlines our ethical principles and specific prohibitions, including conflicts of interest. If you have further questions after reviewing it, you can also contact the Compliance Department.\n\nHope that helps,\nBob",
+        "time": "09:45",
+        "date": "2024-12-18"
+    }
+]
